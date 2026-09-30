@@ -47,9 +47,9 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🗄️ **[In-Memory Cache Engine](https://github.com/yasaswabrahmam/distributed-kv-cache)** | High-performance key-value cache engine implementing an $O(1)$ LRU eviction policy using a combined Hash Map and Doubly Linked List with thread-safety and WAL disk persistence. | `Python`, `OOP`, `Hash Tables`, `Doubly Linked Lists`, `Docker` |
-| 📄 **[Smart Resume Analyzer](https://github.com/yasaswabrahmam/Smart-Resume-Analyzer)** | Intelligent document parsing microservice with FastAPI and Redis caching, extracting key domain skills and computing candidate-job relevance scores. | `Python`, `FastAPI`, `NLP (spaCy)`, `Redis`, `pytest` |
-| 📅 **[AI Study Planner](https://github.com/yasaswabrahmam/Ai-Study-Planner)** | Workload management and task prioritization engine using machine learning heuristics and normalized relational SQL database schemas. | `Python`, `Scikit-Learn`, `SQLite / PostgreSQL`, `REST APIs` |
+| 🗄️ **[In-Memory Cache Engine](https://github.com/yasaswabrahmam/in-memory-cache-engine)** | High-performance key-value cache engine implementing an $O(1)$ LRU eviction policy using a combined Hash Map and Doubly Linked List with thread-safety and WAL disk persistence. | `Python`, `OOP`, `Hash Tables`, `Doubly Linked Lists`, `Docker` |
+| 📄 **[Document Intelligence & Resume Microservice](https://github.com/yasaswabrahmam/document-intelligence-microservice)** | Intelligent document parsing microservice with FastAPI and Redis caching, extracting key domain skills and computing candidate-job relevance scores. | `Python`, `FastAPI`, `NLP (spaCy)`, `Redis`, `pytest` |
+| 📅 **[Intelligent Task Scheduler](https://github.com/yasaswabrahmam/intelligent-task-scheduler)** | Workload management and task prioritization engine using machine learning heuristics and normalized relational SQL database schemas. | `Python`, `Scikit-Learn`, `SQLite / PostgreSQL`, `REST APIs` |
 
 ---
 
