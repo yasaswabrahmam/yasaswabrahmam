@@ -1,50 +1,43 @@
-<div align="center">
-
-  # Muppalla Yasaswa Brahmam
-  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=480&lines=Software+Engineer;Backend+%26+API+Developer;Problem+Solver+%7C+LeetCode+180%2B" alt="Typing SVG" /></a>
-
-  <p align="center">
-    <b>Computer Science & Engineering (AI & ML)</b> @ <b>Kalasalingam Academy of Research and Education</b>
-  </p>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/yasaswa-brahmam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://leetcode.com/yasaswabrahmam"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-    <a href="mailto:yasaswabrahmammuppalla@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
-
-</div>
-
----
-
-### 💻 About Me
-
-* 🚀 **Passionate Software Engineer** focused on building high-performance backend systems, clean RESTful APIs, and intelligent data-driven applications.
-* 🧠 **Problem Solving:** Solved **180+ problems on LeetCode** (Trees, Graphs, DP) | **2-Star Competitor on CodeChef**.
-* 🛠️ **Core Philosophy:** Clean Code, Object-Oriented Design (OOD), SOLID principles, and rigorous automated testing.
-* 💬 Ask me about **Python, Data Structures, FastAPI, Database Design, and Caching**.
-
----
-
-### 🛠️ Languages & Software Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h1>Hi 👋, I'm Muppalla Yasaswa Brahmam</h1>
+      <h3>A passionate Software Engineer from India 🇮🇳</h3>
+      <p>
+        🎓 <b>B.Tech in Computer Science & Engineering (AI & ML)</b> @ <b>Kalasalingam Academy of Research and Education</b><br>
+        🔭 <b>Focus:</b> Backend Engineering, High-Performance Caching, RESTful APIs & Data Structures<br>
+        🧠 <b>Problem Solving:</b> Solved <b>180+ problems on LeetCode</b> | <b>CodeChef 2-Star Competitor</b>
+      </p>
+      <br>
+      <h4>Connect with me:</h4>
+      <p>
+        <a href="https://linkedin.com/in/yasaswa-brahmam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="https://leetcode.com/yasaswabrahmam" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+        <a href="mailto:yasaswabrahmammuppalla@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+      </p>
+      <br>
+      <h4>Languages and Tools:</h4>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="36" height="36"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="36" height="36"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="36" height="36"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="36" height="36"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="36" height="36"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="36" height="36"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="36" height="36"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="36" height="36"/>
+      </p>
+    </td>
+    <td valign="middle" align="center" width="40%">
+      <img src="./developer.gif" width="380" alt="Developer Coding" style="border-radius: 12px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Featured Software Engineering Projects
+### 🚀 Featured Engineering Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
