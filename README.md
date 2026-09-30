@@ -1,24 +1,30 @@
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="58%">
       <h1>Hi 👋, I'm Muppalla Yasaswa Brahmam</h1>
       <h3>A passionate Software Engineer from India 🇮🇳</h3>
       <p>
+        <a href="https://github.com/yasaswabrahmam"><img src="https://komarev.com/ghpvc/?username=yasaswabrahmam&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /></a>
+      </p>
+      <p>
         🎓 <b>B.Tech in Computer Science & Engineering (AI & ML)</b> @ <b>Kalasalingam Academy of Research and Education</b><br>
         🔭 <b>Focus:</b> Backend Engineering, High-Performance Caching, RESTful APIs & Data Structures<br>
-        🧠 <b>Problem Solving:</b> Solved <b>180+ problems on LeetCode</b> | <b>CodeChef 2-Star Competitor</b>
+        🧠 <b>Problem Solving:</b> Solved <b>180+ problems on LeetCode</b> | <b>CodeChef 2-Star Competitor</b> | Active on <b>Codeforces</b>
       </p>
       <br>
       <h4>Connect with me:</h4>
       <p>
-        <a href="https://linkedin.com/in/yasaswa-brahmam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-        <a href="https://leetcode.com/yasaswabrahmam" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+        <a href="https://linkedin.com/in/yasaswa-brahmam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp;
+        <a href="https://leetcode.com/yasaswabrahmam" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a> &nbsp;
+        <a href="https://www.codechef.com/users/yasaswabrahmam" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a> &nbsp;
+        <a href="https://codeforces.com/profile/yasaswabrahmam" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a> &nbsp;
         <a href="mailto:yasaswabrahmammuppalla@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
       </p>
       <br>
       <h4>Languages and Tools:</h4>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="36" height="36"/> &nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="36" height="36"/> &nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="36" height="36"/> &nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="36" height="36"/> &nbsp;
@@ -29,8 +35,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="36" height="36"/>
       </p>
     </td>
-    <td valign="middle" align="center" width="40%">
-      <img src="./developer.gif" width="380" alt="Developer Coding" style="border-radius: 12px;" />
+    <td valign="middle" align="center" width="42%">
+      <img src="./developer.gif" width="400" alt="Software Engineer at Work" style="border-radius: 12px;" />
     </td>
   </tr>
 </table>
