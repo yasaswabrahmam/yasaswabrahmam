@@ -55,12 +55,16 @@
 
 ---
 
-### 📊 Problem Solving & Language Stats
+### 📊 GitHub & Problem Solving Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasaswabrahmam&show_icons=true&theme=default&hide_border=false" alt="Yasaswa's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasaswabrahmam&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/yasaswabrahmam?theme=light&font=source_code_pro" alt="Yasaswa's LeetCode Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasaswabrahmam&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
